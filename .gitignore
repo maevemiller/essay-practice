@@ -1,0 +1,7 @@
+drafts/
+progress.md
+*.log
+*.err.log
+__pycache__/
+*.pyc
+.DS_Store
